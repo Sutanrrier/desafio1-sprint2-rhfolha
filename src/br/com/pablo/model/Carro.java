@@ -1,4 +1,4 @@
-package br.com.pablo.entities;
+package br.com.pablo.model;
 
 public class Carro {
 	private String cor, placa;
